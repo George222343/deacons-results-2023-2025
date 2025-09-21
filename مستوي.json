@@ -4517,11 +4517,11 @@
  {
   "name": "الامير عياد سعيد ثالوث",
   "className": "الانبا بولا",
-  "alhan": 50.10416666666667,
-  "taks": 51.625,
-  "coptic": 53.625,
-  "akeda": 21.875,
-  "totalSubjects": 177.22916666666669,
+  "alhan": 62.10416666666667,
+  "taks": 71.625,
+  "coptic": 66.625,
+  "akeda": 45.375,
+  "totalSubjects": 245.22916666666669,
   "finalSubjects": 400,
   "kodas": 65,
   "finalKodas": 71,
@@ -4531,9 +4531,9 @@
   "finalTasbha": 15,
   "totalPresent": 99,
   "finalPresent": 122,
-  "totalResult": 276.2291666666667,
+  "totalResult": 344.2291666666667,
   "finalResult": 522,
-  "Rehabilitation": "غير مؤهل"
+  "Rehabilitation": "مؤهل"
  },
  {
   "name": "اندرو فتحي هنري عبد الملاك",
